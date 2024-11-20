@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m @Ropold<br>🌱 I’m currently learning Java, Spring Boot & React<br>📫 How to reach me www.linkedin.com/in/ropold
+👋 Hi, I’m @Ropold<br>🌱 I’m currently learning Java & Spring Boot<br>📫 How to reach me www.linkedin.com/in/ropold
 
 
 ## 🌐 Socials:
