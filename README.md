@@ -29,17 +29,17 @@
 </p>
 
 <p>
+  <a href="https://revealhub.onrender.com/">
+    <img src="https://github.com/Ropold/RevealHub/blob/master/frontend/src/assets/Reveal-logo.png?raw=true" alt="Reveal Hub Logo" width="30"/>&nbsp;
+    Reveal Hub
+  </a> (https://revealhub.onrender.com/)
+</p>
+
+<p>
   <a href="https://memoryhub-d397.onrender.com/">
     <img src="https://github.com/Ropold/MemoryHub/blob/master/frontend/src/assets/MemoryHub-logo-single.jpg?raw=true" alt="Memory Hub Logo" width="30"/>&nbsp;
     Memory Hub
   </a> (https://memoryhub-d397.onrender.com/)
-</p>
-
-<p>
-  <a href="https://revealhub.onrender.com/">
-    <img src="https://github.com/Ropold/RevealHub/blob/master/frontend/src/assets/Reveal-pic.jpg?raw=true" alt="Reveal Hub Logo" width="30"/>&nbsp;
-    Reveal Hub
-  </a> (https://revealhub.onrender.com/)
 </p>
 
 <p>
