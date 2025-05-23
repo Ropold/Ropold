@@ -4,11 +4,53 @@
 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/ropold)
 
 ## My Projects:
-<p>⚠️ **Note**: These projects are hosted on free-tier Render servers. They might take ~45 seconds to start after clicking the link.</p>
-<a href="https://quizhub-wmuy.onrender.com/">
-  <img src="https://github.com/Ropold/QuizHub/blob/master/frontend/src/assets/quiz-logo-header.jpg?raw=true" alt="QuizHub Logo" width="30"/>
-  Quiz Hub
-</a>
+<p>⚠️ **Note**: These projects are hosted on free-tier Render servers.</p> 
+<p>They might take ~45 seconds to start after clicking the link.</p>
+
+<p>
+  <a href="https://wordlinkhub.onrender.com/">
+    <img src="" alt="Word Link Logo" width="30"/>&nbsp;
+    Word Link Hub
+  </a> (https://wordlinkhub.onrender.com/)
+</p>
+
+<p>
+  <a href="https://quizhub-wmuy.onrender.com/">
+    <img src="https://github.com/Ropold/QuizHub/blob/master/frontend/src/assets/quiz-logo-header.jpg?raw=true" alt="Quiz Hub Logo" width="30"/>&nbsp;
+    Quiz Hub
+  </a> (https://quizhub-wmuy.onrender.com/)
+</p>
+
+<p>
+  <a href="https://sudokuanimalhub.onrender.com/">
+    <img src="https://github.com/Ropold/SudokuAnimalHub/blob/master/frontend/src/assets/Small-Sudoko-Logo.jpg?raw=true" alt="Sudoku Animal Hub Logo" width="30"/>&nbsp;
+    Sudoku Animal Hub
+  </a> (https://sudokuanimalhub.onrender.com/)
+</p>
+
+<p>
+  <a href="https://memoryhub-d397.onrender.com/">
+    <img src="https://github.com/Ropold/MemoryHub/blob/master/frontend/src/assets/MemoryHub-logo-single.jpg?raw=true" alt="Memory Hub Logo" width="30"/>&nbsp;
+    Memory Hub
+  </a> (https://memoryhub-d397.onrender.com/)
+</p>
+
+<p>
+  <a href="https://revealhub.onrender.com/">
+    <img src="https://github.com/Ropold/RevealHub/blob/master/frontend/src/assets/Reveal-pic.jpg?raw=true" alt="Reveal Hub Logo" width="30"/>&nbsp;
+    Reveal Hub
+  </a> (https://revealhub.onrender.com/)
+</p>
+
+<p>
+  <a href="https://practicehub.onrender.com/">
+    <img src="https://github.com/Ropold/PracticeHub/blob/master/frontend/public/PracticeHub-Logo.png?raw=true" alt="Practice Hub Logo" width="30"/>&nbsp;
+    Practice Hub
+  </a> (https://practicehub.onrender.com/)
+</p>
+
+<br><br>
+
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ropold)
