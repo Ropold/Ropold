@@ -49,9 +49,6 @@
   </a> (https://practicehub.onrender.com/)
 </p>
 
-<br><br>
-
-
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ropold)
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/channel/UCf6Rg8nzRzwLr6z8o-pXJQQ)
