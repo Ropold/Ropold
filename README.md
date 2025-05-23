@@ -9,7 +9,7 @@
 
 <p>
   <a href="https://wordlinkhub.onrender.com/">
-    <img src="" alt="Word Link Logo" width="30"/>&nbsp;
+    <img src="https://github.com/Ropold/WordLinkHub/blob/master/frontend/src/assets/logo-word-link.jpg?raw=true" alt="Word Link Logo" width="30"/>&nbsp;
     Word Link Hub
   </a> (https://wordlinkhub.onrender.com/)
 </p>
