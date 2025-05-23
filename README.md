@@ -1,11 +1,21 @@
-# 💫 About Me:
-👋 Hi, I’m @Ropold<br>🌱 I’m currently learning Java & Spring Boot<br>📫 How to reach me www.linkedin.com/in/ropold
+## 💫 About Me:
+👋 Hi, I’m @Ropold  
+🌱 Currently learning **Java & Spring Boot**  
+📫 Reach me on [LinkedIn](https://www.linkedin.com/in/ropold)
 
+## My Projects:
+<p>⚠️ **Note**: These projects are hosted on free-tier Render servers. They might take ~45 seconds to start after clicking the link.</p>
+<a href="https://quizhub-wmuy.onrender.com/">
+  <img src="https://github.com/Ropold/QuizHub/blob/master/frontend/src/assets/quiz-logo-header.jpg?raw=true" alt="QuizHub Logo" width="30"/>
+  Quiz Hub
+</a>
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ropold) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/channel/UCf6Rg8nzRzwLr6z8o-pXJQQ) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ropold)
+[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/channel/UCf6Rg8nzRzwLr6z8o-pXJQQ)
 
-# 💻 Tech Stack:
+
+## 💻 Tech Stack:
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) 
 ![Spring](https://img.shields.io/badge/Spring-Boot-%236DB33F?style=for-the-badge&logo=spring&logoColor=white)
 ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
@@ -31,7 +41,7 @@
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) 
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) 
 
-# 📊 GitHub Stats:
+## 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=ropold&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=ropold&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ropold&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
