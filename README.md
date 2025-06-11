@@ -8,6 +8,13 @@
 <p>They might take ~45 seconds to start after clicking the link.</p>
 
 <p>
+  <a href="https://worldquartethub.onrender.com/">
+    <img src="https://github.com/Ropold/WorldQuartetHub/blob/master/frontend/src/assets/world-quartet-logo.jpg?raw=true" alt="Word Link Logo" width="30"/>&nbsp;
+    World Quartet Hub
+  </a> (https://worldquartethub.onrender.com/)
+</p>
+
+<p>
   <a href="https://wordlinkhub.onrender.com/">
     <img src="https://github.com/Ropold/WordLinkHub/blob/master/frontend/src/assets/logo-word-link.jpg?raw=true" alt="Word Link Logo" width="30"/>&nbsp;
     Word Link Hub
