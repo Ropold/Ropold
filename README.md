@@ -50,6 +50,13 @@
 </p>
 
 <p>
+  <a href="https://animalcluehub.onrender.com/">
+    <img src="https://github.com/Ropold/AnimalClueHub/blob/master/frontend/src/assets/cat-logo-small.jpg?raw=true" alt="Word Link Logo" width="30"/>&nbsp;
+    Animal Clue Hub
+  </a> (https://animalcluehub.onrender.com/)
+</p>
+
+<p>
   <a href="https://practicehub.onrender.com/">
     <img src="https://github.com/Ropold/PracticeHub/blob/master/frontend/public/PracticeHub-Logo.png?raw=true" alt="Practice Hub Logo" width="30"/>&nbsp;
     Practice Hub
