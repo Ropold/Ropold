@@ -8,6 +8,13 @@
 <p>They might take ~45 seconds to start after clicking the link.</p>
 
 <p>
+  <a href="https://licenseplatform.onrender.com/">
+    <img src="https://github.com/Ropold/LicensePlatform/blob/master/frontend/src/assets/license-platform-logo.jpg?raw=true" alt="License Platform Logo" width="30"/>&nbsp;
+    License Platform
+  </a> (https://licenseplatform.onrender.com/)
+</p>
+
+<p>
   <a href="https://worldquartethub.onrender.com/">
     <img src="https://github.com/Ropold/WorldQuartetHub/blob/master/frontend/src/assets/world-quartet-logo.jpg?raw=true" alt="Word Link Logo" width="30"/>&nbsp;
     World Quartet Hub
