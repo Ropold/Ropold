@@ -10,7 +10,7 @@
 <p>
   <a href="https://printscanmanager.onrender.com/">
     <img src="https://github.com/Ropold/PrintScanManager/blob/master/frontend/src/assets/printer-logo.png?raw=true" alt="Print Scan Logo" width="30"/>&nbsp;
-    License Platform
+    Print Scan Manager
   </a> (https://printscanmanager.onrender.com/)
 </p>
 
